@@ -67,6 +67,30 @@ header img {
   margin: auto;
 }
 
+#store {
+  height: 700px;
+  width: 1000px;
+  padding-top: 70px;
+  margin: auto;
+}
+
+.item {
+  padding: 5px;
+}
+
+.item img {
+  height: 200px;
+  display: block;
+  margin: 10px;
+}
+
+.item span {
+
+  display: block;
+  font-weight: bold;
+  text-align: center;
+  padding: 5px;
+}
 div {
   display: block;
 }
